@@ -12,4 +12,4 @@ Ejecutar la clase Control.java
 # Construido con:
 El lenguaje Java
 
-![screenshot of conversion](https://raw.github.com/adam-p/markdown-here/master/store-assets/markdown-here-image1.gimp.png)
+![screenshot of conversion](Vista.png)
