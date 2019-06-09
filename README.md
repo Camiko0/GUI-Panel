@@ -8,7 +8,8 @@ El proyecto cuenta con 2 clases:
 
 # Ejecución del proyecto
 Ejecutar la clase Control.java para la ejecución:
-![screenshot of conversion](Vista.png)
+
+    ![screenshot of conversion](Vista.png)
 
 # Construido con:
 El lenguaje Java
