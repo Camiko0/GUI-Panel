@@ -7,9 +7,8 @@ El proyecto cuenta con 2 clases:
     Vista.java, creación y configuración de la ventana
 
 # Ejecución del proyecto
-Ejecutar la clase Control.java
+Ejecutar la clase Control.java para la ejecución:
+![screenshot of conversion](Vista.png)
 
 # Construido con:
 El lenguaje Java
-
-![screenshot of conversion](Vista.png)
